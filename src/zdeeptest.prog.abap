@@ -5,4 +5,5 @@
 *&---------------------------------------------------------------------*
 REPORT ZDEEPTEST.
 
-write :/2 ' new program'.
+write :/2 ' new program'. 
+write :/2 ' Hello world '.
